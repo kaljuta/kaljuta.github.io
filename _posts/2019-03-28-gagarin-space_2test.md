@@ -23,4 +23,13 @@ title: Первый человек в космосе!
     file.close()
     return content</code></pre>
 
-stylesheet test
+    ```
+    Some code.
+    ```
+
+    `​``javascript
+    Some code.
+
+    {% highlight python %}
+    x = ('a', 1, False)
+    {% endhighlight %}
