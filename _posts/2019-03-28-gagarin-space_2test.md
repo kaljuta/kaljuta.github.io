@@ -17,11 +17,6 @@ title: Первый человек в космосе!
 
  Начиная с 12 апреля 1962 года, день полёта Гагарина в космос был объявлен праздником — Днём космонавтики.
 
-<pre><code data-language="python">def openFile(path):
-    file = open(path, "r")
-    content = file.read()
-    file.close()
-    return content</code></pre>
 
     ```
     Some code.
