@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Первый человек в космосе!
-categories: [blog, travel]
 tags: [hot, summer]
 ---
 
