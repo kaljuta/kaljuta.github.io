@@ -30,4 +30,4 @@ tags: [hot, summer]
     x = ('a', 1, False)
     {% endhighlight %}
 
-![useful image]({{ site.url }}/assets/1.png)
+related_image: /1.jpg
