@@ -30,4 +30,4 @@ tags: [hot, summer]
     x = ('a', 1, False)
     {% endhighlight %}
 
-<img src="/assets/1.jpg" align="middle">
+<img src="/assets/1.jpg">
