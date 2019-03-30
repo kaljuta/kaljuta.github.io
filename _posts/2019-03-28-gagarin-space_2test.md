@@ -8,15 +8,6 @@ tags: [hot, summer]
 {{ page.title }}
 ================
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
 <p class="meta">28 Mar 2019 - Bialystok</p>
 <script src="css/rainbow.min.js"></script>
 <link href="css/blackboard.css" rel="stylesheet">
