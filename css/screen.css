@@ -170,10 +170,12 @@ ul.posts {
     background-color: #eef;
     font-size: 85%;
     padding: 0 .2em;
+    color: #ff1f1f;
   }
 
     #post pre code {
       border: none;
+      color: #ff1f1f;
     }
 
   #post img {
