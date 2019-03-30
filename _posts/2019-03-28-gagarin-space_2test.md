@@ -29,3 +29,5 @@ tags: [hot, summer]
     {% highlight python %}
     x = ('a', 1, False)
     {% endhighlight %}
+
+![image tooltip here](/1.jpg)
