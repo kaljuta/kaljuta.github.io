@@ -18,6 +18,5 @@ title: Installation and configuration XPenology DS3615xs 5.2 on Proxmox
 
 p.s. used versions installation
 
-DSM_DS3615xs_5592.pat
-
-XPEnoboot_DS3615xs_5.2-5592.1.img
+1. DSM_DS3615xs_5592.pat
+2. XPEnoboot_DS3615xs_5.2-5592.1.img
