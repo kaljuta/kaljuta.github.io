@@ -12,7 +12,7 @@ Change PC name:
 
 <pre><code>function Function{
     Write-Host
-    Rename-Computer -ComputerName $ComputerName
+     Rename-Computer -ComputerName $ComputerName
 </code></pre>
 
 
@@ -27,6 +27,6 @@ Add PC domain:
 Update windows 10:
 
 <pre><code>Install-Module PSWindowsUpdate
-Get-WindowsUpdate
-Install-WindowsUpdate
+ Get-WindowsUpdate
+  Install-WindowsUpdate
 </code></pre>
