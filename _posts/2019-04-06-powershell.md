@@ -20,7 +20,7 @@ Add PC domain:
 
 <pre><code>function Function{
     Write-Host
-     add-computer -domainname kantherm.corp; restart-computer
+     add-computer -domainname test.corp; restart-computer
 </code></pre>
 
 
