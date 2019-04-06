@@ -10,16 +10,14 @@ title: PC name, add PC domain, update windows 10 in powershell
 
 Change PC name:
 
-<pre><code>function Function{
-    Write-Host
+<pre><code>function Write-Host
      Rename-Computer -ComputerName $ComputerName
 </code></pre>
 
 
 Add PC domain:
 
-<pre><code>function Function{
-    Write-Host
+<pre><code>Write-Host
      add-computer -domainname test.corp; restart-computer
 </code></pre>
 
