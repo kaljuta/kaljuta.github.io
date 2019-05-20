@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick start Zabbix Docker on Debian 9.9.
+title: Quick start Zabbix Docker on Debian 9.9
 ---
 
 {{ page.title }}
