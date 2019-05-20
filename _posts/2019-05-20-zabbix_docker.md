@@ -29,7 +29,10 @@ Zabbix with embedded MySQL database, Zabbix server, Zabbix web interfaces based 
 
 <code>
 docker run --name zabbix-appliance -t
- -p 10051:10051
-    <code><code>  -p 80:80
-     -d zabbix/zabbix-appliance:latest
+
+-p 10051:10051
+
+<code><code>  -p 80:80
+
+-d zabbix/zabbix-appliance:latest
 </code>
