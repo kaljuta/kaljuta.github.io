@@ -28,6 +28,9 @@ Add repository file:
 Zabbix with embedded MySQL database, Zabbix server, Zabbix web interfaces based on Nginx web server and Zabbix Java gateway:
 
 <code>docker run --name zabbix-appliance -t</code>
+
 <code>-p 10051:10051</code>
+
 <code>-p 80:80</code>
+
 <code>-d zabbix/zabbix-appliance:latest</code>
