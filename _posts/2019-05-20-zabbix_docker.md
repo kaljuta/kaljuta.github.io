@@ -25,7 +25,7 @@ Add repository file:
 <code>apt install docker-engine</code>
 
 
-Zabbix with embedded MySQL database, Zabbix server, Zabbix web interfaces based on Nginx web server and Zabbix Java gateway.
+Zabbix with embedded MySQL database, Zabbix server, Zabbix web interfaces based on Nginx web server and Zabbix Java gateway:
 
 <code>
 docker run --name zabbix-appliance -t
